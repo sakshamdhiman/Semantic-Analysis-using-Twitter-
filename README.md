@@ -1,2 +1,3 @@
 # Sentiment-Analysis-using-Twitter-
-Conducting sentiment analysis on the keyword inputed and saving the results in a csv file
+
+Sentiment analysis of a keyword using Twitter API and writing the polarity values and tweets in a csv file.
